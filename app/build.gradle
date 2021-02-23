@@ -46,6 +46,5 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    //CarouselView
-    implementation 'com.github.jama5262:CarouselView:1.1.0'
+
 }

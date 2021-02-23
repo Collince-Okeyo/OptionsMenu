@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/contexualmenu1" android:title="Contexual Menu1"/>
+    <item android:id="@+id/contexualmenu2" android:title="Contexual Menu2"/>
+    <item android:id="@+id/contexualmenu3" android:title="Contexual Menu3"/>
+</menu>
